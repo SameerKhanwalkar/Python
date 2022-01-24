@@ -6,7 +6,7 @@ username = 'SameerKhanwalkar'
 This is Your Git Username
 
 CommitCount = 60
-This is the count of the commits from the past that the user wants to pull. default if 60 as specified in the problem.
+This is the count of the commits from the past that the user wants to pull. Default is 60 - as specified in the problem.
 
 RepositoryName = "Python"
 The name of your repository you want to pull commit data for.
