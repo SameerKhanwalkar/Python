@@ -17,7 +17,7 @@ username = 'SameerKhanwalkar'
 CommitCount = 60
 RepositoryName = "Python"
 #github generated access token
-token = "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"
+token = ""
 
 table = PrettyTable()
 table.field_names = ["Commiter", "CommitDate"]
